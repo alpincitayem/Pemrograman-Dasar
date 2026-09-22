@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\bin\Debug\Kondisi_Pilihan.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\bin\Debug\Kondisi_Pilihan.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\bin\Debug\Kondisi_Pilihan.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\obj\Debug\Kondisi_Pilihan.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\obj\Debug\Kondisi_Pilihan.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\obj\Debug\Kondisi_Pilihan.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Kondisi_Pilihan\obj\Debug\Kondisi_Pilihan.pdb
