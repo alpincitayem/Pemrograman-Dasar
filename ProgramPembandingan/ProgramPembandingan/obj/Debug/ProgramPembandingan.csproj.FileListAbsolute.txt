@@ -1,0 +1,7 @@
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\bin\Debug\ProgramPembandingan.exe.config
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\bin\Debug\ProgramPembandingan.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\bin\Debug\ProgramPembandingan.pdb
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\obj\Debug\ProgramPembandingan.csproj.AssemblyReference.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\obj\Debug\ProgramPembandingan.csproj.CoreCompileInputs.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\obj\Debug\ProgramPembandingan.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\ProgramPembandingan\ProgramPembandingan\obj\Debug\ProgramPembandingan.pdb

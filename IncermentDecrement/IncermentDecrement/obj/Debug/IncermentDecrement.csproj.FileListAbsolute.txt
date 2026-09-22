@@ -1,0 +1,7 @@
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\bin\Debug\IncermentDecrement.exe.config
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\bin\Debug\IncermentDecrement.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\bin\Debug\IncermentDecrement.pdb
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\obj\Debug\IncermentDecrement.csproj.AssemblyReference.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\obj\Debug\IncermentDecrement.csproj.CoreCompileInputs.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\obj\Debug\IncermentDecrement.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\IncermentDecrement\IncermentDecrement\obj\Debug\IncermentDecrement.pdb
