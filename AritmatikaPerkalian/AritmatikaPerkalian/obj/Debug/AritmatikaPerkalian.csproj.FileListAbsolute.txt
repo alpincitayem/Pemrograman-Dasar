@@ -1,0 +1,7 @@
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\bin\Debug\AritmatikaPerkalian.exe.config
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\bin\Debug\AritmatikaPerkalian.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\bin\Debug\AritmatikaPerkalian.pdb
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.csproj.AssemblyReference.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.csproj.CoreCompileInputs.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.pdb

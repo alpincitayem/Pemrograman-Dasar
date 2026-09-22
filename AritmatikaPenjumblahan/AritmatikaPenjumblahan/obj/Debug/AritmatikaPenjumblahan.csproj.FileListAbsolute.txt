@@ -1,0 +1,7 @@
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\bin\Debug\AritmatikaPenjumblahan.exe.config
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\bin\Debug\AritmatikaPenjumblahan.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\bin\Debug\AritmatikaPenjumblahan.pdb
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\obj\Debug\AritmatikaPenjumblahan.csproj.AssemblyReference.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\obj\Debug\AritmatikaPenjumblahan.csproj.CoreCompileInputs.cache
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\obj\Debug\AritmatikaPenjumblahan.exe
+D:\M Alfil David Rizal Jiban - X PPLG 2\AritmatikaPenjumblahan\AritmatikaPenjumblahan\obj\Debug\AritmatikaPenjumblahan.pdb
