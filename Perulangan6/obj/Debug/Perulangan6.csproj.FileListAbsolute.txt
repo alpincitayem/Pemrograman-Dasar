@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\obj\Debug\Perulangan6.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\obj\Debug\Perulangan6.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\bin\Debug\Perulangan6.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\bin\Debug\Perulangan6.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\bin\Debug\Perulangan6.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\obj\Debug\Perulangan6.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan6\obj\Debug\Perulangan6.pdb

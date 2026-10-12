@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\bin\Debug\Pengulangan9.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\bin\Debug\Pengulangan9.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\bin\Debug\Pengulangan9.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\obj\Debug\Pengulangan9.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\obj\Debug\Pengulangan9.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\obj\Debug\Pengulangan9.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Pengulangan9\obj\Debug\Pengulangan9.pdb

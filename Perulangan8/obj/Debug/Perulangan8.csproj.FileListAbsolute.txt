@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\obj\Debug\Perulangan8.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\obj\Debug\Perulangan8.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\bin\Debug\Perulangan8.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\bin\Debug\Perulangan8.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\bin\Debug\Perulangan8.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\obj\Debug\Perulangan8.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Perulangan8\obj\Debug\Perulangan8.pdb
