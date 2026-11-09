@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\bin\Debug\method_bawaaan_array.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\bin\Debug\method_bawaaan_array.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\bin\Debug\method_bawaaan_array.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\obj\Debug\method_bawaaan_array.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\obj\Debug\method_bawaaan_array.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\obj\Debug\method_bawaaan_array.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\method_bawaaan_array\obj\Debug\method_bawaaan_array.pdb
