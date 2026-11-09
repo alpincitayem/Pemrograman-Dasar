@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\bin\Debug\menghitung_siswa_lulus.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\bin\Debug\menghitung_siswa_lulus.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\bin\Debug\menghitung_siswa_lulus.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\obj\Debug\menghitung_siswa_lulus.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\obj\Debug\menghitung_siswa_lulus.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\obj\Debug\menghitung_siswa_lulus.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\menghitung_siswa_lulus\obj\Debug\menghitung_siswa_lulus.pdb

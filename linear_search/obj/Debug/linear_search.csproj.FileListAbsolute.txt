@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\bin\Debug\linear_search.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\bin\Debug\linear_search.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\bin\Debug\linear_search.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\obj\Debug\linear_search.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\obj\Debug\linear_search.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\obj\Debug\linear_search.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\linear_search\obj\Debug\linear_search.pdb

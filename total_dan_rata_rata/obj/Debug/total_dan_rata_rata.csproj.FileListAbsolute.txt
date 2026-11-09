@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\bin\Debug\total_dan_rata_rata.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\bin\Debug\total_dan_rata_rata.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\bin\Debug\total_dan_rata_rata.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\obj\Debug\total_dan_rata_rata.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\obj\Debug\total_dan_rata_rata.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\obj\Debug\total_dan_rata_rata.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\total_dan_rata_rata\obj\Debug\total_dan_rata_rata.pdb

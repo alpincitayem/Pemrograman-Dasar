@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\bin\Debug\membalik_urutan_array.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\bin\Debug\membalik_urutan_array.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\bin\Debug\membalik_urutan_array.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\obj\Debug\membalik_urutan_array.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\obj\Debug\membalik_urutan_array.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\obj\Debug\membalik_urutan_array.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\membalik_urutan_array\obj\Debug\membalik_urutan_array.pdb
