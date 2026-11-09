@@ -1,0 +1,7 @@
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\bin\Debug\Contoh_1.exe.config
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\bin\Debug\Contoh_1.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\bin\Debug\Contoh_1.pdb
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\obj\Debug\Contoh_1.csproj.AssemblyReference.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\obj\Debug\Contoh_1.csproj.CoreCompileInputs.cache
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\obj\Debug\Contoh_1.exe
+D:\M. ALFIL DAVID RIZAL JIBAN X PPLG 2\Contoh_1\obj\Debug\Contoh_1.pdb
